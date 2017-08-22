@@ -39,12 +39,54 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"bubble" : 1,
+					"id" : "obj-8",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 360.0, 72.0, 104.0, 33.0 ],
+					"style" : "",
+					"text" : "Change attributes"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bubble" : 1,
+					"id" : "obj-2",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 360.0, 220.0, 104.0, 33.0 ],
+					"style" : "",
+					"text" : "Click to change selection"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bubble" : 1,
+					"id" : "obj-1",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 360.0, 180.0, 104.0, 33.0 ],
+					"style" : "",
+					"text" : "Ctrl + Click to store a selection"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bubble" : 1,
 					"id" : "obj-9",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 272.0, 136.0, 80.0, 33.0 ],
+					"patching_rect" : [ 360.0, 136.0, 104.0, 33.0 ],
 					"style" : "",
 					"text" : "Clear all selections"
 				}
@@ -57,7 +99,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 232.0, 144.0, 34.0, 20.0 ],
+					"patching_rect" : [ 312.0, 144.0, 34.0, 20.0 ],
 					"style" : "",
 					"text" : "clear"
 				}
@@ -388,7 +430,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-23", 0 ],
-					"midpoints" : [ 241.5, 171.0, 89.5, 171.0 ],
+					"midpoints" : [ 321.5, 171.0, 89.5, 171.0 ],
 					"source" : [ "obj-3", 0 ]
 				}
 
