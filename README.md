@@ -1,6 +1,6 @@
 # ehSelectionSets
 
-Save selections of objects and change all their attributes at once.
+Save selections of objects and change attributes on all of them at once.
 
 Avoid having to tediously select the same large set of objects more than once.
 
