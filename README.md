@@ -8,3 +8,6 @@ Stores selection sets with patcher.
 
 
 It would have been nice to be able to re-select a selection set, but unfortunately it does not seem to be possible to select multiple objects with scripting.
+
+See it in action here: https://youtu.be/A3d95DPsbJg
+Sorry about the poor quality video.
